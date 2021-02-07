@@ -1,5 +1,7 @@
 ### Publish to Gitlab
 
+![Screenshot](screenshot.png)
+
 Publish any folder to Gitlab with one click(should be working with github too)
 
 **Prerequisites**
