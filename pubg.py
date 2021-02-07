@@ -1,4 +1,4 @@
-#!/c/Users/Bappy/AppData/Local/Programs/Python/Python39/python
+
 import subprocess
 import os
 import re
