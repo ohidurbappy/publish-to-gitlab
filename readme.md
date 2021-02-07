@@ -31,5 +31,5 @@ How the python script works?
 - Commit changes 
 - Add upstream to the repo and push the changes to remote
 
-** If  a repo already exists it avoids executing.
+> If  a repo already exists it avoids executing.
 
