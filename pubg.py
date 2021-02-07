@@ -4,7 +4,7 @@ import os
 import re
 import unicodedata
 
-USER_NAMESPACE="ohidurbappy"
+USER_NAMESPACE="YOUR_USERNAME_HERE"
 
 def slugify(value, allow_unicode=False):
     """
